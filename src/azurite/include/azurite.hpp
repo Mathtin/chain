@@ -18,8 +18,6 @@
 
 #include <string>
 
-#include "azurite_export.h"
-
 namespace azr
 {
 
