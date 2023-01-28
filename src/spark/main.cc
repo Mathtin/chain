@@ -18,7 +18,8 @@
 
 #include <iostream>
 
-int main() {
+int main()
+{
     auto version = azr::get_version_string();
 
     std::cout << version << std::endl;

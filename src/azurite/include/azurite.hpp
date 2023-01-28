@@ -20,7 +20,8 @@
 
 #include "azurite_export.h"
 
-namespace azr {
+namespace azr
+{
 
     std::string get_version_string() noexcept;
 

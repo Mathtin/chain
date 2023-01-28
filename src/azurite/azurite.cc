@@ -16,6 +16,7 @@
 
 #include "azurite.hpp"
 
-std::string azr::get_version_string() noexcept {
+std::string azr::get_version_string() noexcept
+{
     return "test";
 }

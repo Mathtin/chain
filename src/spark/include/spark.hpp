@@ -17,4 +17,3 @@
 #pragma once
 
 #include "azurite.hpp"
-
