@@ -6,6 +6,7 @@
 *.lo
 *.o
 *.obj
+*.pyc
 
 # Precompiled Headers
 *.gch
@@ -30,3 +31,9 @@
 *.exe
 *.out
 *.app
+
+# VSCode
+.vscode
+
+# Build dir
+build/
